@@ -1,0 +1,35 @@
+D:\myworks 10-12-2012\MongoDBWPFLocalDB\MongoDBWPFLocalDB\bin\Debug\MongoDBWPFLocalDB.exe
+D:\myworks 10-12-2012\MongoDBWPFLocalDB\MongoDBWPFLocalDB\bin\Debug\MongoDBWPFLocalDB.pdb
+D:\myworks 10-12-2012\MongoDBWPFLocalDB\MongoDBWPFLocalDB\bin\Debug\MongoDB.Bson.dll
+D:\myworks 10-12-2012\MongoDBWPFLocalDB\MongoDBWPFLocalDB\bin\Debug\MongoDB.Driver.dll
+D:\myworks 10-12-2012\MongoDBWPFLocalDB\MongoDBWPFLocalDB\bin\Debug\MongoDB.Bson.pdb
+D:\myworks 10-12-2012\MongoDBWPFLocalDB\MongoDBWPFLocalDB\bin\Debug\MongoDB.Bson.xml
+D:\myworks 10-12-2012\MongoDBWPFLocalDB\MongoDBWPFLocalDB\bin\Debug\MongoDB.Driver.pdb
+D:\myworks 10-12-2012\MongoDBWPFLocalDB\MongoDBWPFLocalDB\bin\Debug\MongoDB.Driver.xml
+D:\myworks 10-12-2012\MongoDBWPFLocalDB\MongoDBWPFLocalDB\obj\x86\Debug\MainWindow.baml
+D:\myworks 10-12-2012\MongoDBWPFLocalDB\MongoDBWPFLocalDB\obj\x86\Debug\MainWindow.g.cs
+D:\myworks 10-12-2012\MongoDBWPFLocalDB\MongoDBWPFLocalDB\obj\x86\Debug\App.g.cs
+D:\myworks 10-12-2012\MongoDBWPFLocalDB\MongoDBWPFLocalDB\obj\x86\Debug\MongoDBWPFLocalDB_MarkupCompile.cache
+D:\myworks 10-12-2012\MongoDBWPFLocalDB\MongoDBWPFLocalDB\obj\x86\Debug\MongoDBWPFLocalDB.g.resources
+D:\myworks 10-12-2012\MongoDBWPFLocalDB\MongoDBWPFLocalDB\obj\x86\Debug\MongoDBWPFLocalDB.Properties.Resources.resources
+D:\myworks 10-12-2012\MongoDBWPFLocalDB\MongoDBWPFLocalDB\obj\x86\Debug\MongoDBWPFLocalDB.csproj.GenerateResource.Cache
+D:\myworks 10-12-2012\MongoDBWPFLocalDB\MongoDBWPFLocalDB\obj\x86\Debug\MongoDBWPFLocalDB.exe
+D:\myworks 10-12-2012\MongoDBWPFLocalDB\MongoDBWPFLocalDB\obj\x86\Debug\MongoDBWPFLocalDB.pdb
+C:\Users\DarioJose\source\repos\MongoDBWPFLocalDB\MongoDBWPFLocalDB\bin\Debug\MongoDBWPFLocalDB.exe
+C:\Users\DarioJose\source\repos\MongoDBWPFLocalDB\MongoDBWPFLocalDB\bin\Debug\MongoDBWPFLocalDB.pdb
+C:\Users\DarioJose\source\repos\MongoDBWPFLocalDB\MongoDBWPFLocalDB\bin\Debug\MongoDB.Bson.pdb
+C:\Users\DarioJose\source\repos\MongoDBWPFLocalDB\MongoDBWPFLocalDB\bin\Debug\MongoDB.Bson.xml
+C:\Users\DarioJose\source\repos\MongoDBWPFLocalDB\MongoDBWPFLocalDB\bin\Debug\MongoDB.Driver.pdb
+C:\Users\DarioJose\source\repos\MongoDBWPFLocalDB\MongoDBWPFLocalDB\bin\Debug\MongoDB.Driver.xml
+C:\Users\DarioJose\source\repos\MongoDBWPFLocalDB\MongoDBWPFLocalDB\obj\x86\Debug\MongoDBWPFLocalDB.csprojAssemblyReference.cache
+C:\Users\DarioJose\source\repos\MongoDBWPFLocalDB\MongoDBWPFLocalDB\obj\x86\Debug\MainWindow.baml
+C:\Users\DarioJose\source\repos\MongoDBWPFLocalDB\MongoDBWPFLocalDB\obj\x86\Debug\MainWindow.g.cs
+C:\Users\DarioJose\source\repos\MongoDBWPFLocalDB\MongoDBWPFLocalDB\obj\x86\Debug\App.g.cs
+C:\Users\DarioJose\source\repos\MongoDBWPFLocalDB\MongoDBWPFLocalDB\obj\x86\Debug\MongoDBWPFLocalDB_MarkupCompile.cache
+C:\Users\DarioJose\source\repos\MongoDBWPFLocalDB\MongoDBWPFLocalDB\obj\x86\Debug\MongoDBWPFLocalDB.g.resources
+C:\Users\DarioJose\source\repos\MongoDBWPFLocalDB\MongoDBWPFLocalDB\obj\x86\Debug\MongoDBWPFLocalDB.Properties.Resources.resources
+C:\Users\DarioJose\source\repos\MongoDBWPFLocalDB\MongoDBWPFLocalDB\obj\x86\Debug\MongoDBWPFLocalDB.csproj.GenerateResource.cache
+C:\Users\DarioJose\source\repos\MongoDBWPFLocalDB\MongoDBWPFLocalDB\obj\x86\Debug\MongoDBWPFLocalDB.csproj.CoreCompileInputs.cache
+C:\Users\DarioJose\source\repos\MongoDBWPFLocalDB\MongoDBWPFLocalDB\obj\x86\Debug\MongoDBWPFLocalDB.csproj.CopyComplete
+C:\Users\DarioJose\source\repos\MongoDBWPFLocalDB\MongoDBWPFLocalDB\obj\x86\Debug\MongoDBWPFLocalDB.exe
+C:\Users\DarioJose\source\repos\MongoDBWPFLocalDB\MongoDBWPFLocalDB\obj\x86\Debug\MongoDBWPFLocalDB.pdb
